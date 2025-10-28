@@ -1,5 +1,5 @@
 ---
-title: Security Baseline for Microsoft Edge
+title: Security baseline for Microsoft Edge
 weight: 30
 description: "This section describes the configuration of security baselines within Microsoft Intune associated with systems built according to the guidance provided by ASD's Blueprint for Secure Cloud."
 ---
@@ -22,7 +22,7 @@ Placeholders such as `<ORGANISATION.GOV.AU>`, `<BLUEPRINT.GOV.AU>` and `<TENANT-
 
 | Item        |                                Value |
 | ----------- | -----------------------------------: |
-| Name        | Security Baseline for Microsoft Edge |
+| Name        | Security baseline for Microsoft Edge |
 | Description |                                      |
 | Platform    |                 Windows 10 and later |
 

@@ -144,7 +144,7 @@ While a sensitivity label's name can be arbitrary, it's important that users are
 
 {{% /alert %}}
 
-{{% alert title="Parent label deprecation" color="warning" %}}
+{{% alert title="Parent label deprecation" color="info" %}}
 
 Microsoft is deprecating parent sensitivity labels in favour of label groups.
 

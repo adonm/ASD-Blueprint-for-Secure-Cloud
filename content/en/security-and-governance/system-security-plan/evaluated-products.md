@@ -31,7 +31,7 @@ ISM controls relating to the procurement and use of evaluated products including
 
 - Microsoft Windows 10
 - Microsoft Windows 11
-- Apple iOS 17: iPhones (Apple iOS 16 is the latest release to be certified under Common Criteria - [iOS 16 CC details](https://www.niap-ccevs.org/Product/Compliant.cfm?PID=11349))
+- Apple iOS 17: iPhones (Apple iOS 17 is the latest release to be certified under Common Criteria - [Common Criteria - products](https://www.niap-ccevs.org/products))
 - `<MICROSOFT WINDOWS SERVER 2022>`
 
 `<INSERT ADDITIONAL INFORMATION AS APPROPRIATE>`

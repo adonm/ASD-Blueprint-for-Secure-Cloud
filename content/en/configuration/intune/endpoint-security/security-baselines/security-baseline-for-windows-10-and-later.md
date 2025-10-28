@@ -1,5 +1,5 @@
 ---
-title: Security Baseline** for Windows 10 and later
+title: Security baseline for Windows 10 and later
 weight: 10
 description: "This section describes the configuration of security baselines within Microsoft Intune associated with systems built according to the guidance provided by ASD's Blueprint for Secure Cloud."
 ---
@@ -18,13 +18,11 @@ Placeholders such as `<ORGANISATION.GOV.AU>`, `<BLUEPRINT.GOV.AU>` and `<TENANT-
 
 {{% /alert %}}
 
-Microsoft Windows Security Baseline
-
 ### Basics
 
 | Item        |                               Value |
 | ----------- | ----------------------------------: |
-| Name        | Microsoft Windows Security Baseline |
+| Name        | Microsoft Windows Security baseline |
 | Description |                                     |
 | Platform    |                Windows 10 and later |
 

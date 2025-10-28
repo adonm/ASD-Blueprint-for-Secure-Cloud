@@ -235,7 +235,7 @@ The collection of event logs for monitoring of `<SYSTEM-NAME>` is performed in a
 
 {{% alert title="Essential Eight guidance" color="success" %}}
 
-Maturity Levels 2 and 3 require all allowed and blocked application control event logs from the following systems to be analysed in a timely manner to detect cyber security events:
+Maturity Levels 2 and 3 require all allowed and blocked application control events to be centrally logged and that such events from the following systems be analysed in a timely manner to detect cyber security events:
 
 | System                       | ML2 | ML3 |
 | ---------------------------- | :-: | :-: |

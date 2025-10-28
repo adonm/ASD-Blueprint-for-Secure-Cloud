@@ -32,7 +32,7 @@ The system purpose section of an SSP should document the intended scope of imple
 
 {{% /alert %}}
 
-`<SYSTEM-NAME>` aims to provide a scalable, multi-classified, multi-vendor platform that enables trusted external suppliers, partners, and staff to collaboratively develop and enhance our services more rapidly.
+`<SYSTEM-NAME>` aims to provide a scalable, multi-classified, multi-vendor platform that enables trustworthy external suppliers, partners, and staff to collaboratively develop and enhance our services more rapidly.
 
 The objectives of the `<SYSTEM-NAME>` are to:
 
