@@ -94,13 +94,13 @@ The Blueprint does not cover management of multifunction devices (MFDs). However
 
 ISM controls relating to MFDs are applicable to `<ORGANISATION-NAME>`'s use of MFDs for office productivity purposes. These devices are connected to `<SYSTEM-NAME>` for printing and scanning services. However, the technical implementation of these devices is not within the authorisation boundary of `<SYSTEM-NAME>`.
 
-Please see the `<PRINT-SYSTEM>` System Security at Plan `<insert document reference here>` for further information on implementation of these services.
+Please see the `<PRINT-SYSTEM>` System Security Plan at `<INSERT DOCUMENT REFERENCE HERE>` for further information on implementation of these services.
 
 `<INSERT ADDITIONAL INFORMATION AS APPROPRIATE>`
 
 #### Organisational policies and processes implemented
 
-Appropriate organisational use of MFDs is detailed in the `<ORGANISATION-NAME>`'s [Fax Machine and MFD Usage Policy](/security-and-governance/policies).
+Appropriate organisational use of MFDs is detailed in the `<ORGANISATION-NAME>`'s [MFD Usage Policy](/security-and-governance/policies).
 
 `<INSERT ADDITIONAL INFORMATION AS APPROPRIATE>`
 

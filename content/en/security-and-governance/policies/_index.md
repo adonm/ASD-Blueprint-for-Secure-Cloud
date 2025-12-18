@@ -65,8 +65,6 @@ ISM control ISM-1713 is also relevant to this policy and states the following re
 
 - An associated removal media register is also developed, implemented, maintained and verified on a regular basis.
 
-#### Software development policy
-
 #### Supplier relationship management policy
 
 A supplier relationship management policy is a requirement of ISM control ISM-1785.

@@ -5,10 +5,11 @@ type: docs
 description:
 ---
 
-Below is a summary of updates to ASD's _Blueprint for Secure Cloud_. For more detail on these changes please see the [⁠list of commits on our Github](https://github.com/ASD-Blueprint/ASD-Blueprint-for-Secure-Cloud/commits/main).
+Below is a summary of updates to ASD's _Blueprint for Secure Cloud_. For more detail on these changes please see the [list of commits on our Github](https://github.com/ASD-Blueprint/ASD-Blueprint-for-Secure-Cloud/commits/main).
 
 | Date              | Version | Change description                                                                                                                                                                                                                                                                                          |
 | ----------------- | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 18 December 2025  | 1.3.10  | - Added Copilot chat configuration settings                                                                                                                                                                                                                                                                 |
 | 18 December 2025  | 1.3.9   | - Updates to align with December 2025 ISM<br>- Minor updates to RBAC design guidance                                                                                                                                                                                                                        |
 | 26 November 2025  | 1.3.8   | - Added Teams client design guidance and corresponding Defender for Office configuration policies<br>- Minor updates to Defender portal configurations                                                                                                                                                      |
 | 27 October 2025   | 1.3.7   | - Updates to security and governance to align with September 2025 ISM                                                                                                                                                                                                                                       |
