@@ -80,13 +80,13 @@ The below are the settings specific to hybrid deployments of SharePoint Online.
 
 #### Design
 
-- None identified
+- [Microsoft 365 Organisation Residency](/design/shared-services/microsoft-365/residency)
 
 #### Configuration
 
+- [Access control](/configuration/sharepoint-online/policies/access-control)
 - [Services](/configuration/microsoft-365/settings/services)
 - [Sharing](/configuration/sharepoint-online/policies/sharing)
-- [Access control](/configuration/sharepoint-online/policies/access-control)
 
 #### References
 

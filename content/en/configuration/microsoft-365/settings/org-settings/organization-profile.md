@@ -1,6 +1,6 @@
 ---
 title: "Organization profile"
-weight: 00
+weight: 30
 description: "This section describes the configuration of organisational profiles in Microsoft 365 associated with systems built according to the guidance provided by ASD's Blueprint for Secure Cloud."
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Security and privacy"
-weight: 00
+weight: 20
 description: "This section describes the configuration of security and privacy settings in Microsoft 365 associated with systems built according to the guidance provided by ASD's Blueprint for Secure Cloud."
 ---
 

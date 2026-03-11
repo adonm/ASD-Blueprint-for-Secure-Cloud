@@ -83,7 +83,6 @@ Microsoft Office products can log macro execution attempts (both successful and 
   - Turn off Trusted Documents on the network: Enabled
   - VBA Macro Notification Settings: Enabled (Disable all except digitally signed macros)
 - Microsoft Word
-
   - Disable commands: Enabled (19092)
   - Scan encrypted macros in Word Open XML documents: Scan encrypted macros (default)
   - Block macros from running in Office files from the Internet: Enabled

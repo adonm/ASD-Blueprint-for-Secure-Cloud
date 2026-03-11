@@ -357,7 +357,6 @@ The following design components apply to the hardening of Microsoft Windows 10 2
   - Justification: To align with the ASD's *Hardening Microsoft Windows 10 version 21H1 Workstations*guidance.
   - Allow Remote Shell Access: Disabled
 - Windows Search and Cortana
-
   - Justification: To align with the ASD's *Hardening Microsoft Windows 10 version 21H1 Workstations*guidance.
   - Allow Cortana: Disabled
 

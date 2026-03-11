@@ -116,7 +116,7 @@ No technical controls are implemented in `<SYSTEM-NAME>` relating to the use of 
 
 - [Telephone Usage Policy](/security-and-governance/policies)
 - [Denial of Service Response Plan for IP Telephony](/security-and-governance/general-documentation)
-- [Fax Machine and MFD Usage Policy](/security-and-governance/policies)
+- [MFD Usage Policy](/security-and-governance/policies)
 
 #### Design
 

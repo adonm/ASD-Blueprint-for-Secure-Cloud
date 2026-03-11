@@ -44,4 +44,4 @@ Anti-spoof specifically analyses the senders address to determine if it is legit
 
 #### References
 
-- [Anti-phishing policies in Microsoft 365 - Microsoft Defender for Office 365 | Microsoft Learn](https://learn.microsoft.com/en-au/defender-office-365/anti-phishing-policies-about)
+- [Anti-phishing policies in Microsoft 365 - Microsoft Defender for Office 365](https://learn.microsoft.com/en-au/defender-office-365/anti-phishing-policies-about)

@@ -50,7 +50,11 @@ Microsoft 365 tenant data residency is critical to ensure the organisation's ten
 
 #### Design
 
-- None identified
+- [Microsoft Forms](/design/shared-services/forms)
+- [Microsoft Planner](/design/shared-services/planner)
+- [Microsoft Whiteboard](/design/shared-services/whiteboard)
+- [Sharing and access controls](/design/shared-services/sharepoint-online/sharing)
+- [Viva Learning](/design/shared-services/viva-learning)
 
 #### Configuration
 
@@ -59,7 +63,3 @@ Microsoft 365 tenant data residency is critical to ensure the organisation's ten
 #### References
 
 - [Where your Microsoft 365 customer data is stored](https://docs.microsoft.com/microsoft-365/enterprise/o365-data-locations?view=o365-worldwide)
-
-#### Related design decisions
-
-- None identified

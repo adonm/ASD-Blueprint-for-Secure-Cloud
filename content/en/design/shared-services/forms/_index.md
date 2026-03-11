@@ -45,7 +45,7 @@ For new Microsoft 365 customers and those customers who have not previously used
 
 #### Design
 
-- None identified
+- [Microsoft 365 Organisation Residency](/design/shared-services/microsoft-365/residency)
 
 #### Configuration
 

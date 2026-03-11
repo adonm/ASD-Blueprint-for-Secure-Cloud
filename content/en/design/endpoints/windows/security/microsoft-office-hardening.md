@@ -143,7 +143,6 @@ D4F940AB-401B-4EFC-AADC-AD5F3C50688A
   - Justification: To align with ASD's Microsoft Office hardening guidance.
   - Make hidden markup visible: Enabled (PowerPoint and Word)
 - Reporting information
-
   - Justification: To align with ASD's Microsoft Office hardening guidance.
   - Allow including screenshot with Office Feedback: Disabled
   - Automatically receive small updates to improve reliability: Disabled

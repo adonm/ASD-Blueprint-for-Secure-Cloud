@@ -35,7 +35,7 @@ The Whiteboard tool can be used with the Microsoft Surface hub appliance. When u
 
 #### Design
 
-- None identified
+- [Microsoft 365 Organisation Residency](/design/shared-services/microsoft-365/residency)
 
 #### Configuration
 

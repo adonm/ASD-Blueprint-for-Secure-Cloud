@@ -7,12 +7,10 @@ description: "This section describes the design decisions associated with report
 Reporting provides information on both:
 
 1.  Activity:
-
     - **Sign ins** -- The sign ins report provides information about the usage of managed applications and user sign in activities.
     - **Audit logs** - Provides traceability through logs for all changes done by various features within Entra ID. Examples of audit logs include changes made to any resources within Entra ID like adding or removing users, apps, groups, roles and policies.
 
 2.  Security:
-
     - **Risky sign ins** - A risky sign in is an indicator for a sign in attempt that might have been performed by someone who is not the legitimate owner of a user account.
     - **Users flagged for risk** - A risky user is an indicator for a user account that might have been compromised.
 

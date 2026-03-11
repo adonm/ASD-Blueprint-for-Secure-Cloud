@@ -28,7 +28,7 @@ Note, Viva Learning content is subject to terms other than the Microsoft Product
 
 #### Design
 
-- None identified
+- [Microsoft 365 Organisation Residency](/design/shared-services/microsoft-365/residency)
 
 #### Configuration
 

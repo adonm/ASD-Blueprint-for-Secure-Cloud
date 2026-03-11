@@ -1,6 +1,6 @@
 ---
-title: "Settings"
-weight: 20
+title: "Org settings"
+weight: 10
 description: "This section describes the configuration of organisational settings in Microsoft 365 associated with systems built according to the guidance provided by ASD's Blueprint for Secure Cloud."
 ---
 
