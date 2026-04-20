@@ -59,20 +59,21 @@ Placeholders such as `<ORGANISATION.GOV.AU>`, `<BLUEPRINT.GOV.AU>` and `<TENANT-
 
 #### System Security
 
-| Item                                                  |           Value |
-| ----------------------------------------------------- | --------------: |
-| **Password**                                          |                 |
-| Require a password to unlock mobile devices           |         Require |
-| **Device enrollment and automated device enrollment** |                 |
-| Simple passwords                                      |           Block |
-| Minimum password length                               |              15 |
-| Required password type                                |    Alphanumeric |
-| Number of non-alphanumeric characters in password     |               1 |
-| Maximum minutes of inactivity until screen locks      |     Immediately |
-| Password expiration (days)                            |             365 |
-| Number of previous passwords to prevent reuse         |               5 |
-| **Device Security**                                   |                 |
-| Restricted apps                                       | None configured |
+| Item                                                          |           Value |
+| ------------------------------------------------------------- | --------------: |
+| **Password**                                                  |                 |
+| Require a password to unlock mobile devices                   |         Require |
+| **Device enrollment and automated device enrollment**         |                 |
+| Simple passwords                                              |           Block |
+| Minimum password length                                       |              15 |
+| Required password type                                        |    Alphanumeric |
+| Number of non-alphanumeric characters in password             |               1 |
+| Maximum minutes after screen lock before password is required |     Immediately |
+| Maximum minutes of inactivity until screen locks              |        1 Minute |
+| Password expiration (days)                                    |             365 |
+| Number of previous passwords to prevent reuse                 |               5 |
+| **Device Security**                                           |                 |
+| Restricted apps                                               | None configured |
 
 ### Actions for noncompliance
 

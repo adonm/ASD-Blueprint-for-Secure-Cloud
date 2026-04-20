@@ -49,21 +49,34 @@ None
 
 #### App Store, Doc Viewing, Gaming
 
-| Item                                                        | Value |
-| ----------------------------------------------------------- | ----: |
-| Block viewing corporate documents in unmanaged apps         |   Yes |
-| Allow unmanaged apps to read from managed contacts accounts |   Yes |
-| Treat AirDrop as an unmanaged destination                   |   Yes |
-| Block viewing non-corporate documents in corporate apps     |   Yes |
-| Allow copy/paste to be affected by managed open-in          |   Yes |
-| Block App store                                             |   Yes |
-| Block automatic app downloads                               |   Yes |
+| Item                                                                |                Value |
+| ------------------------------------------------------------------- | -------------------: |
+| Block viewing corporate documents in unmanaged apps                 |                  Yes |
+| Allow unmanaged apps to read from managed contacts accounts         |                  Yes |
+| Treat AirDrop as an unmanaged destination                           |                  Yes |
+| Block viewing non-corporate documents in corporate apps             |                  Yes |
+| Allow copy/paste to be affected by managed open-in                  |                  Yes |
+| Require iTunes Store password for all purchases                     |       Not configured |
+| Block in-app purchases                                              |       Not configured |
+| Block download of explicit sexual content in Apple Books            |       Not configured |
+| Allow managed apps to write contacts to unmanaged contacts accounts |       Not configured |
+| Ratings region                                                      | No region configured |
+| Block App Store                                                     |                  Yes |
+| Block installing apps using App Store                               |       Not configured |
+| Block automatic app downloads                                       |                  Yes |
+| Block playback of explicit music, podcast, and iTunes U             |       Not configured |
+| Block adding Game Center friends                                    |       Not configured |
+| Block Game Center                                                   |       Not configured |
+| Block multiplayer gaming in the Game Center                         |       Not configured |
+| Block access to network drive in Files app                          |       Not configured |
+
 
 #### Built-in apps
 
 | Item                                                    |                                            Value |
 | ------------------------------------------------------- | -----------------------------------------------: |
 | Block Siri                                              |                                              Yes |
+| Block Siri while device is locked                       |                                   Not configured |
 | Require Safari fraud warnings                           |                                              Yes |
 | Block internet search results from Spotlight            |                                              Yes |
 | Safari cookies                                          | Block all cookies, and block cross site tracking |
@@ -72,13 +85,16 @@ None
 | Block Siri for dictation                                |                                              Yes |
 | Block Siri for translation                              |                                              Yes |
 | Block camera                                            |                                              Yes |
-| Block FaceTime                                          |                                              Yes |
+| Block FaceTime                                          |                                   Not configured |
+| Require Siri profanity filter                           |                                   Not configured |
+| Block user-generated content in Siri                    |                                   Not configured |
+| Block Apple News                                        |                                   Not configured |
 | Block Apple Books                                       |                                              Yes |
 | Block iMessage                                          |                                              Yes |
 | Block Podcasts                                          |                                              Yes |
 | Music service                                           |                                              Yes |
 | Block iTunes Radio                                      |                                              Yes |
-| Block iTunes store                                      |                                              Yes |
+| Block iTunes Store                                      |                                              Yes |
 | Block Find My iPhone                                    |                                              Yes |
 | Block Find My Friends                                   |                                              Yes |
 | Block user modification to the Find My Friends settings |                                              Yes |
@@ -88,62 +104,110 @@ None
 
 #### Cloud and Storage
 
-| Item                                                 | Value |
-| ---------------------------------------------------- | ----: |
-| Force encrypted backup                               |   Yes |
-| Block managed apps from storing data in iCloud       |   Yes |
-| Block backup of enterprise books                     |   Yes |
-| Block notes and highlights sync for enterprise books |   Yes |
-| Block iCloud Photos sync                             |   Yes |
-| Block iCloud Photo Library                           |   Yes |
-| Block My Photo Stream                                |   Yes |
-| Block Handoff                                        |   Yes |
-| Block iCloud backup                                  |   Yes |
-| Block iCloud document and data sync                  |   Yes |
-| Block iCloud Keychain sync                           |   Yes |
+| Item                                                 |          Value |
+| ---------------------------------------------------- | -------------: |
+| Force encrypted backup                               |            Yes |
+| Block managed apps from storing data in iCloud       |            Yes |
+| Block backup of enterprise books                     |            Yes |
+| Block notes and highlights sync for enterprise books |            Yes |
+| Block iCloud Photos sync                             |            Yes |
+| Block iCloud Photo Library                           |            Yes |
+| Block My Photo Stream                                |            Yes |
+| Block Handoff                                        |            Yes |
+| Block iCloud backup                                  |            Yes |
+| Block iCloud document and data sync                  |            Yes |
+| Block iCloud Keychain sync                           |            Yes |
+| Block iCloud Private Relay                           | Not configured |
 
 #### Connected devices
 
-| Item                                               | Value |
-| -------------------------------------------------- | ----: |
-| Force Apple Watch wrist detection                  |   Yes |
-| Require AirPlay outgoing requests pairing password |   Yes |
-| Block Apple Watch auto unlock                      |   Yes |
-| Block AirDrop                                      |   Yes |
-| Block pairing with Apple Watch                     |   Yes |
-| Block modifying Bluetooth settings                 |   Yes |
-| Block pairing with non-Configurator hosts          |   Yes |
-| Block AirPrint                                     |   Yes |
-| Block setting up new nearby devices                |   Yes |
-| Block access to USB drive in Files app             |   Yes |
-| Disable near-field communication (NFC)             |   Yes |
+| Item                                                                 |          Value |
+| -------------------------------------------------------------------- | -------------: |
+| Force Apple Watch wrist detection                                    |            Yes |
+| Require AirPlay outgoing requests pairing password                   |            Yes |
+| Block Apple Watch auto unlock                                        |            Yes |
+| Block AirDrop                                                        |            Yes |
+| Block pairing with Apple Watch                                       |            Yes |
+| Block modifying Bluetooth settings                                   | Not configured |
+| Block pairing with non-Configurator hosts                            |            Yes |
+| Block AirPrint                                                       |            Yes |
+| Block storage of AirPrint credentials in Keychain                    | Not configured |
+| Require AirPrint to destinations with trusted certificates           | Not configured |
+| Block iBeacon discovery of AirPrint printers                         | Not configured |
+| Block setting up new nearby devices                                  |            Yes |
+| Block access to USB drive in Files app                               |            Yes |
+| Disable near-field communication (NFC)                               |            Yes |
+| Allow users to boot devices into recovery mode with unpaired devices | Not configured |
 
 #### General
 
-| Item                                                                     | Value |
-| ------------------------------------------------------------------------ | ----: |
-| Block sending diagnostic and usage data to Apple                         |   Yes |
-| Block screenshots and screen recording                                   |   Yes |
-| Block untrusted TLS certificates                                         |   Yes |
-| Block over-the-air PKI updates                                           |   Yes |
-| Force limited ad tracking                                                |   Yes |
-| Block trusting new enterprise app authors                                |   Yes |
-| Limit Apple personalized advertising                                     |   Yes |
-| Block remote AirPlay, view screen by Classroom app, and screen sharing   |   Yes |
-| Allow Classroom app to perform AirPlay and view screen without prompting |   Yes |
-| Block modification of account settings                                   |   Yes |
-| Block Screen Time                                                        |   Yes |
-| Block users from erasing all content and settings on device              |   Yes |
-| Block modification of device name                                        |   Yes |
-| Block modification of notifications settings                             |   Yes |
-| Block modification of Wallpaper                                          |   Yes |
-| Block configuration profile changes                                      |   Yes |
-| Allow activation lock                                                    |   Yes |
-| Block removing apps                                                      |   Yes |
-| Block app clips                                                          |   Yes |
-| Force automatic date and time                                            |   Yes |
-| Block VPN creation                                                       |   Yes |
-| Block modification of eSIM settings                                      |   Yes |
+| Item                                                                     |          Value |
+| ------------------------------------------------------------------------ | -------------: |
+| Block sending diagnostic and usage data to Apple                         |            Yes |
+| Block screenshots and screen recording                                   |            Yes |
+| Block untrusted TLS certificates                                         |            Yes |
+| Block over-the-air PKI updates                                           |            Yes |
+| Force limited ad tracking                                                |            Yes |
+| Block trusting new enterprise app authors                                |            Yes |
+| Limit Apple personalized advertising                                     |            Yes |
+| Block modification of diagnostics settings                               | Not configured |
+| Block remote AirPlay, view screen by Classroom app, and screen sharing   |            Yes |
+| Allow Classroom app to perform AirPlay and view screen without prompting |            Yes |
+| Block modification of account settings                                   |            Yes |
+| Block Screen Time                                                        |            Yes |
+| Block users from erasing all content and settings on device              |            Yes |
+| Block modification of device name                                        |            Yes |
+| Block modification of notifications settings                             |            Yes |
+| Block modification of Wallpaper                                          |            Yes |
+| Block configuration profile changes                                      |            Yes |
+| Allow activation lock                                                    |            Yes |
+| Block removing apps                                                      |            Yes |
+| Block app clips                                                          |            Yes |
+| Allow USB accessories while device is locked                             | Not configured |
+| Force automatic date and time                                            |            Yes |
+| Require teacher permission to leave Classroom app unmanaged classes      | Not configured |
+| Allow Classroom to lock to an app and lock the device without prompting  | Not configured |
+| Allow students to automatically join Classroom classes without prompting | Not configured |
+| Block VPN creation                                                       |            Yes |
+| Block modification of eSIM settings                                      |            Yes |
+| Defer software updates                                                   | Not configured |
+| Delay default visibility of software updates                             |         _None_ |
+
+#### Keyboard and dictionary
+
+| Item                         |          Value |
+| ---------------------------- | -------------: |
+| Block word definition lookup | Not configured |
+| Block predictive keyboards   | Not configured |
+| Block auto-correction        | Not configured |
+| Block spell check            | Not configured |
+| Block keyboard shortcuts     | Not configured |
+| Block dictation              | Not configured |
+| Block QuickPath              | Not configured |
+
+#### Kiosk
+
+| Item                              |          Value |
+| --------------------------------- | -------------: |
+| App to run in kiosk mode          | Not configured |
+| Require AssistiveTouch            | Not configured |
+| Require invert colours            | Not configured |
+| Require mono audio                | Not configured |
+| Require Voice Control             | Not configured |
+| Require VoiceOver                 | Not configured |
+| Require zoom                      | Not configured |
+| Block auto lock                   | Not configured |
+| Block ringer switch               | Not configured |
+| Block screen rotation             | Not configured |
+| Block screen sleep button         | Not configured |
+| Block touch                       | Not configured |
+| Block volume buttons              | Not configured |
+| Allow AssistiveTouch control      | Not configured |
+| Allow invert colours control      | Not configured |
+| Speak on selected text            | Not configured |
+| Allow Voice Control               | Not configured |
+| Allow VoiceOver control           | Not configured |
+| Allow zoom control                | Not configured |
 
 #### Locked Screen Experience
 
@@ -156,24 +220,25 @@ None
 
 #### Password
 
-| Item                                                          |        Value |
-| ------------------------------------------------------------- | -----------: |
-| Require password                                              |          Yes |
-| Block simple passwords                                        |          Yes |
-| Required password type                                        | Alphanumeric |
-| Number of non-alphanumeric characters in password             |            1 |
-| Minimum password length                                       |           15 |
-| Number of sign-in failures before wiping device               |           11 |
-| Maximum minutes after screen lock before password is required |  Immediately |
-| Maximum minutes of inactivity until screen locks              |     1 Minute |
-| Password expiration (days)                                    |          365 |
-| Prevent reuse of previous passwords                           |            5 |
-| Block Touch ID and Face ID unlock                             |          Yes |
-| Block passcode modification                                   |          Yes |
-| Block modification of Touch ID fingerprints and Face ID faces |          Yes |
-| Block password AutoFill                                       |          Yes |
-| Block password proximity requests                             |          Yes |
-| Block password sharing                                        |          Yes |
+| Item                                                                                           |          Value |
+| ---------------------------------------------------------------------------------------------- | -------------: |
+| Require password                                                                               |            Yes |
+| Block simple passwords                                                                         |            Yes |
+| Required password type                                                                         |   Alphanumeric |
+| Number of non-alphanumeric characters in password                                              |              1 |
+| Minimum password length                                                                        |             15 |
+| Number of sign-in failures before wiping device                                                |             11 |
+| Maximum minutes after screen lock before password is required                                  |    Immediately |
+| Maximum minutes of inactivity until screen locks                                               |       1 Minute |
+| Password expiration (days)                                                                     |            365 |
+| Prevent reuse of previous passwords                                                            |              5 |
+| Block Touch ID and Face ID unlock                                                              |            Yes |
+| Block passcode modification                                                                    |            Yes |
+| Block modification of Touch ID fingerprints and Face ID faces                                  |            Yes |
+| Block password AutoFill                                                                        |            Yes |
+| Block password proximity requests                                                              |            Yes |
+| Block password sharing                                                                         |            Yes |
+| Require Touch ID or Face ID authentication for AutoFill of password or credit card information | Not configured |
 
 #### Restricted Apps
 
@@ -200,15 +265,29 @@ None
 
 #### Shared iPad
 
-| Item                                  | Value |
-| ------------------------------------- | ----: |
+| Item                                 | Value |
+| ------------------------------------ | ----: |
 | Block Shared iPad temporary sessions​ |   Yes |
 
 #### Wireless
 
-| Item                                       | Value |
-| ------------------------------------------ | ----: |
-| Block voice dialing while device is locked |   Yes |
+| Item                                                                    |          Value |
+| ----------------------------------------------------------------------- | -------------: |
+| Block data roaming                                                      | Not configured |
+| Block global background fetch while roaming                             | Not configured |
+| Block voice dialling while device is locked                             |            Yes |
+| Block voice roaming                                                     | Not configured |
+| Block personal hotspot                                                  | Not configured |
+| Block use of cellular data                                              |                |
+| - Block use of cellular data                                            | Not configured |
+| Block use of cellular data when roaming                                 |                |
+| - Block use of cellular data when roaming                               | Not configured |
+| Block changes to app cellular data usage settings                       | Not configured |
+| Block changes to cellular plan settings                                 | Not configured |
+| Block modification of personal hotspot                                  | Not configured |
+| Require joining Wi‑Fi networks only using configuration profiles        | Not configured |
+| Require Wi‑Fi always on                                                 | Not configured |
+| Require devices to use Wi‑Fi networks set up via configuration profiles | Not configured |
 
 ### Related information
 

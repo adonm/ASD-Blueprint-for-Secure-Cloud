@@ -8,7 +8,7 @@ description: "This section describes the configuration of SharePoint associated 
 
 The below pages outline the _as built_ configuration for ASD's _Blueprint for Secure Cloud_ (the Blueprint) for the SharePoint admin portal at the following URL:
 
-https://`<TENANT-NAME>`-admin.sharepoint.com/
+<https://`<TENANT-NAME>`-admin.sharepoint.com/>
 
 The settings described on these pages provide a baseline implementation for a system configured using the Blueprint. Any implementation implied by these pages should not be considered as prescriptive as to how an organisation must scope, build, document, or assess a system.
 

@@ -8,7 +8,7 @@ While the actions of data loss prevention (DLP) and auto-labelling policies are 
 
 ### Using a shared labelling scheme
 
-For inter-organisation email collaboration using a Purview-based shared labelling scheme as described herein, and as is the case for organisations implementing the [Australian Government Email Protective Marking Standard](https://www.protectivesecurity.gov.au/publications-library/australian-government-email-protective-marking-standard) with Purview, the following roles apply:
+For inter-organisation email collaboration using a Purview-based shared labelling scheme as described herein, and as is the case for organisations implementing the [Australian Government Email Protective Marking Standard](https://www.protectivesecurity.gov.au/publications-library/australian-government-email-protective-marking-standard-2025) with Purview, the following roles apply:
 
 - **The role of a user** is to ensure an appropriate sensitivity label is applied to an email. The act of applying the label implements the content marking in the email body.
 - **The role of DLP** is to check the sensitivity label applied to an email and insert an equivalent X-Protective-Marking X-header and subject marking. DLP will act on both incoming and outgoing email, and is sequenced to occur after auto-labelling on incoming email.
@@ -65,6 +65,6 @@ For inter-organisation email collaboration using a Purview-based shared labellin
 
 #### References
 
-- [Australian Government Email Protective Marking Standard](https://www.protectivesecurity.gov.au/publications-library/australian-government-email-protective-marking-standard)
+- [Australian Government Email Protective Marking Standard](https://www.protectivesecurity.gov.au/publications-library/australian-government-email-protective-marking-standard-2025)
 - [Automatically apply a sensitivity label to Microsoft 365 data](https://learn.microsoft.com/en-au/purview/apply-sensitivity-label-automatically)
 - [Microsoft Information Protection SDK - Metadata](https://learn.microsoft.com/en-au/information-protection/develop/concept-mip-metadata)

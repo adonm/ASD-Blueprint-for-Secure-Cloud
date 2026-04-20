@@ -68,5 +68,4 @@ Smart lockout duration automatically increases with subsequent lockouts.
 #### References
 
 - [Identity Protection Overview](https://learn.microsoft.com/entra/id-protection/overview-identity-protection)
-- [API Reference](https://docs.microsoft.com/graph/api/resources/identityprotection-root?view=graph-rest-beta)
 - [Microsoft Entra smart lockout](https://learn.microsoft.com/entra/identity/authentication/howto-password-smart-lockout)

@@ -174,6 +174,7 @@ description:
 | MEM    | _Microsoft Endpoint Manager_                                                                           |
 | MFA    | _Multi-Factor Authentication_                                                                          |
 | MIM    | _Microsoft Identity Manager_                                                                           |
+| ML     | _Essential Eight maturity level_                                                                       |
 | MPIP   | _Microsoft Purview Information Protection_                                                             |
 | MPIM   | _Microsoft Privileged Identity Management_                                                             |
 | MSDT   | _Microsoft Support Diagnostic Tool_                                                                    |

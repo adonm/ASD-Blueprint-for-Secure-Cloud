@@ -119,7 +119,7 @@ Each DLP policy rule defines user notifications in terms of policy tips displaye
 
 #### References
 
-- [Australian Government Email Protective Marking Standard](https://www.protectivesecurity.gov.au/publications-library/australian-government-email-protective-marking-standard)
+- [Australian Government Email Protective Marking Standard](https://www.protectivesecurity.gov.au/publications-library/australian-government-email-protective-marking-standard-2025)
 - [Data Loss Prevention policy reference](https://learn.microsoft.com/en-au/purview/dlp-policy-reference)
 - [Learn about data loss prevention](https://docs.microsoft.com/microsoft-365/compliance/dlp-learn-about-dlp?view=o365-worldwide)
 - [Learn about Endpoint data loss prevention](https://learn.microsoft.com/en-au/purview/endpoint-dlp-learn-about)

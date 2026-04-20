@@ -62,7 +62,7 @@ Technical controls for `<SYSTEM-NAME>`'s implementation of mobile device managem
 
 `<SYSTEM-NAME>` uses Microsoft Intune as its Mobile Device Management (MDM) solution, which has [completed the relevant protection profile assessment](https://www.niap-ccevs.org/products/11298).
 
-`<SYSTEM-NAME>` requires use of the latest version of iOS, which is currently iOS 18. The most recent version of iOS to have completed the relevant protection profile assessment is iOS 16. However, `<ORGANISATION-NAME>` considers that while the protection profile assessment is not of the implemented operating system (iOS 18), the recency of the assessment of iOS 16 mitigates associated risks.
+`<SYSTEM-NAME>` requires use of the latest version of iOS, which is currently iOS 26. The most recent version of iOS to have completed the relevant protection profile assessment is iOS 18. However, `<ORGANISATION-NAME>` considers that while the protection profile assessment is not of the implemented operating system (iOS 26), the recency of the assessment of iOS 18 mitigates associated risks.
 
 iOS devices are configured to:
 
@@ -70,8 +70,10 @@ iOS devices are configured to:
 - be remotely wipeable using Intune
 - operate with a secure lock screen
 - apply the latest security patches released by Apple
+- operate with an always-on VPN
+- separate organisational and personal mobile applications
 - restrict iOS users from installing applications from the App Store on iOS
-- restrict iOS users from disabling or modifying security functionality once provisioned.
+- restrict iOS users from disabling or modifying security functionality once provisioned
 
 Mobile device encryption is also inherently enabled for iOS devices' internal storage.
 
